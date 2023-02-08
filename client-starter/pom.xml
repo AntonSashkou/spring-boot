@@ -13,12 +13,9 @@
     <groupId>com.sashkou</groupId>
     <artifactId>client-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>client-starter</name>
-    <description>client-starter</description>
 
     <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
+        <java.version>11</java.version>
     </properties>
 
     <dependencies>
@@ -51,5 +48,4 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-
 </project>
